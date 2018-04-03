@@ -12,8 +12,7 @@
 
 printf(" 
 <script type='text/javascript'>
-//здесь текст скрипта, например: 
-//alert('hello,world!'); 
+ 
 setTimeout('window.location.reload()', 2000);
 </script>
 "); 
